@@ -1,0 +1,73 @@
+
+
+.main{
+    background-color: orangered;
+}
+
+
+
+#main-heading{
+    display: inline;
+    color: white;
+}
+.s_head{
+    font-family: 'Lobster', cursive;
+    text-shadow:  5px 5px 1px gray, 3px 3px 4px black,10px 10px 10px grey;
+}
+
+input[type='text']{
+    height: 30px;
+    width: 300px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 3px solid orangered;
+    border-radius: 10px;
+}
+
+button i{
+    color: blue;
+    border: 0px;
+}
+
+.list_chg{
+    margin-top: 20px; 
+    font-size: 20px; 
+    
+
+    
+    list-style-image:  url('Images/sty.png');
+    }
+.btn1{
+background-color: tomato;
+color: white;
+border-radius: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+
+width: 100px;
+margin-left: 10px;
+
+
+}
+#delic{
+color: blue;
+float: right;
+border: 0px;
+}
+#edit{
+color: blue;
+float: right;
+margin-right: 20px;
+border: 0px;
+}
+.btn2{
+background-color: tomato;
+color: white;
+border-radius: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+
+width: 100px;
+margin-left: 50px;
+}
